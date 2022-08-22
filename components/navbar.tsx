@@ -76,7 +76,11 @@ const NavBar = () => {
           </li>
           <li>
             <Link href="#" className="block  text-black ">
-              <AiOutlineCompass className="cursor-pointer" />
+              <img
+                className="w-7 h-7 rounded-full cursor-pointer"
+                src="https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+                alt="Rounded avatar"
+              />
             </Link>
           </li>
         </ul>
