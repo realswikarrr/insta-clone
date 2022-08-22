@@ -1,4 +1,5 @@
 import React, { ReactNode } from "react";
+import NavBar from "../navbar";
 
 type Props = {
   children: ReactNode;
@@ -7,6 +8,7 @@ type Props = {
 const Main = ({ children }: Props) => {
   return (
     <>
+      <NavBar />
       <div>{children}</div>
     </>
   );
