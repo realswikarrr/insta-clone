@@ -18,7 +18,7 @@ export default function Document() {
         <meta name="description" content="Nep Lofi" />
         <meta name="author" content="Swikar Adhikari" />
         <meta name="author" content="swikarr_" />
-
+        <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
         <meta property="og:site_name" content="Swikar Adhikari" />
         <meta name="og:title" content="Swikar Adhikari" />
         <meta property="og:type" content="website" />
