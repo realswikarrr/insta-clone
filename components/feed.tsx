@@ -13,7 +13,7 @@ const Feed = () => {
   const [comment, setComment] = useState("");
 
   return (
-    <div className="container max-w-[420px] mb-2 w-full border border-grey-light  mt-5">
+    <div className="container max-w-[420px] mb-2 w-full border border-grey-light rounded-md  mt-5">
       <div className="flex items-center justify-between">
         <div className="flex items-center px-3 py-4">
           <img
