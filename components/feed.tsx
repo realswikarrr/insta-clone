@@ -107,8 +107,8 @@ const Feed = () => {
       <div className="text-xs px-3 py-1 uppercase text-gray-500">
         5 days ago
       </div>
-      <div className="flex items-center space-x-2 mt-4 border-t border-grey-light mx-4 py-4">
-        <BsEmojiSmile className="text-2xl" />
+      <div className="flex items-center space-x-1 mt-4 border-t border-grey-light  py-4 w-full">
+        <BsEmojiSmile className="text-4xl mx-4" />
         <input
           className="w-full h-6 outline-none"
           placeholder="Add a comment"
@@ -121,7 +121,7 @@ const Feed = () => {
           } font-semibold `}
           disabled={comment === "" ? true : false}
         >
-          Post
+          <h1 className="mx-4">Post </h1>
         </button>
       </div>
     </div>
