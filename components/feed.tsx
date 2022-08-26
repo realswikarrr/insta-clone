@@ -74,34 +74,12 @@ const Feed = () => {
         >
           routineofnepalbanda
         </a>{" "}
-        My book of this month arrived 😍😍😍 This time its a #norsk #author
-        #jonesbo. I have planned to read his{" "}
-        <a className="text-blue-dark no-underline" href="#">
-          #HarryHole
-        </a>{" "}
-        <a className="text-blue-dark no-underline" href="#">
-          #crime
-        </a>{" "}
-        series and{" "}
-        <a className="text-blue-dark no-underline" href="#">
-          #Flaggermusmannen
-        </a>{" "}
-        is the first book of this series.
-        <br />
-        <a
-          className="text-blue-dark no-underline"
-          href="https://www.instagram.com/explore/tags/12booksin12months/"
-        >
-          #12booksin12months
-        </a>{" "}
-        <a
-          className="text-blue-dark no-underline"
-          href="https://www.instagram.com/explore/tags/books/"
-        >
-          #books
-        </a>
+        Great: Two brothers Bimal Bhattarai and Bishal Bhattarai from
+        Nawalparasi West have donated their hair to cancer patients receiving
+        chemotherapy. This is a great initiative of kindness for a good cause
+        which will help the people in need. ❤️
       </div>
-      <div className="text-xs px-3 py-2  text-gray-500">
+      <div className="text-sm px-3 py-2  text-gray-500">
         View all 14 comments
       </div>
       <div className="text-xs px-3 py-1 uppercase text-gray-500">
