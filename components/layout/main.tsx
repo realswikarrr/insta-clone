@@ -9,7 +9,9 @@ const Main = ({ children }: Props) => {
   return (
     <>
       <NavBar />
-      <div className="max-w-[821px] mx-auto mt-5 w-full ">{children}</div>
+      <div className="lg:max-w-[821px] max-w-[420px] mx-auto mt-5 w-full ">
+        {children}
+      </div>
     </>
   );
 };
