@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import type { NextPage } from "next";
+import Feed from "../components/feed";
 import Story from "../components/story";
 
 const Home: NextPage = () => {
@@ -10,9 +11,8 @@ const Home: NextPage = () => {
         <Story />
 
         {/* Feed */}
-        <div>
-          <h1>Hello</h1>
-        </div>
+        <Feed />
+        <Feed />
       </section>
     </div>
   );
