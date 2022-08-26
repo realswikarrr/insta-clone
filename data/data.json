@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "newstory": true,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 6,
+      "name": "Damren Man",
+      "username": "Damren",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    },
+    {
+      "id": 7,
+      "name": "Swikar Adhikari",
+      "username": "swikarrr",
+      "newstory": false,
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQH-0I4iQjbd_A/profile-displayphoto-shrink_200_200/0/1659169416328?e=1666828800&v=beta&t=pB8KXHFzDmWypFFIW-yxkHBygqFvYaRS00mma5EC0f8"
+    }
+  ]
+}
