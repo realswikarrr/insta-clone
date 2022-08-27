@@ -14,7 +14,13 @@ const Story = () => {
             src={user.img}
             alt="Bordered avatar"
           />
-          <h1 className="mt-1 text-sm text-center">{user.username}</h1>
+          <h1
+            className={`mt-1 text-sm text-center ${
+              user.newstory ? "text-black" : "text-gray-500"
+            }`}
+          >
+            {user.username}
+          </h1>
         </div>
       ))}
     </div>

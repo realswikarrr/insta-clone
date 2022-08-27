@@ -13,7 +13,7 @@ import {
 const NavBar = () => {
   return (
     <nav className="bg-white border-gray-200 border-b-2 px-2 sm:px-4 py-2.5 rounded  ">
-      <div className="container flex flex-wrap justify-between items-center mx-auto max-w-[975px] ">
+      <div className="container flex flex-wrap justify-between items-center mx-auto max-w-[920px] ">
         <Link href="/">
           <span className=" flex items-center cursor-pointer font-cookie font-semibold text-3xl ">
             Instagram

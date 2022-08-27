@@ -95,7 +95,7 @@ const Feed = () => {
         ></input>
         <button
           className={`${
-            comment === "" ? "text-blue-300" : "text-blue-700"
+            comment === "" ? "text-sky-300" : "text-sky-500"
           } font-semibold `}
           disabled={comment === "" ? true : false}
         >
